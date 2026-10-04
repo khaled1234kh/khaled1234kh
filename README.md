@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mohamed-22a22a325)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled1234kh)
-[![GPA](https://img.shields.io/badge/GPA-3.07-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)](https://fue.edu.eg)
+[![GPA](https://img.shields.io/badge/GPA-3.11-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)](https://fue.edu.eg)
 
 </div>
 
