@@ -149,7 +149,7 @@ I enjoy building practical security tools, analyzing vulnerabilities, solving pr
 **Future University in Egypt (FUE)**  
 **B.Sc. in Cybersecurity**  
 📅 October 2023 – Expected July 2027  
-📊 **GPA: 3.07 / 4.00**
+📊 **GPA: 3.11 / 4.00**
 
 ---
 
